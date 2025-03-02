@@ -1,24 +1,24 @@
 ---
-locale: nl
-title: Introductie
-description: Spreid voor het eerst je vleugels met Blackbird.
+locale: en
+title: Introduction
+description: Spread your wings for the first time with Blackbird.
 sidebar:
   order: 1
 ---
 
-Blackbird is een integration platform-as-a-service (iPaaS) oplossing.
-We kunnen het probleem oplossen van applicaties die geïsoleerd en verspreid werken door integratie, automatisering en naadloze analyse mogelijk te maken tussen de apps, gegevens, content, deelnemers en apparaten die worden gebruikt voor lokalisatie- en globaliseringsbeheer. Maar Blackbird gaat verder dan het verbinden van applicaties, gegevens en content binnen een organisatie. Het kan ook organisaties met elkaar verbinden in netwerken - bijv. de eindklanten die de content creëren met meerdere lokalisatieleveranciers.​
+Blackbird is an integration platform-as-a-service (iPaaS) solution.
+We can solve the problem of applications operating in isolation and in dispersed modalities by enabling integration, automation, and seamless analytics between the apps, data, content, participants, and devices used for localization and globalization management. However, Blackbird goes beyond connecting applications, data, and content within an organization. It can also connect organizations into networks - e.g. the end clients who create the content with multiple localization vendors.​
 
-Onze missie is om 's werelds beste iPaaS en automation-platform-as-a-service technologieleverancier te worden voor de taaldienstenindustrie.
+Our mission is to become the global language services industry’s best iPaaS and automation-platform-as-a-service technology vendor.
 
-Bij Blackbird draait ons integratieplatform voortdurend om Birds (Vogels).
+At Blackbird, our integration platform revolves around Birds. All the time.
 
-Regels code worden getransformeerd in de vier krachten van het vliegen: lift (triggers), gewicht (acties), stuwkracht (apps) en weerstand (verbindingen). De manier waarop de vier krachten op je Bird inwerken, zorgt ervoor dat deze verschillende dingen doet. Prima, maar hoe dan, zou je kunnen vragen.
+Lines of code are transformed into the four forces of flight: lift (triggers), weight (actions), thrust (apps), and drag (connections). The way the four forces act on your Bird makes it do different things. Fine, but how, you could ask.
 
-Denk aan de apps die je gebruikt voor je bedrijf. Je eerste lijst zou ten minste één e-mailclient, projectmanagementsoftware, vertaalgeheugensoftware of facturatiesoftware moeten bevatten. Je kunt ze verbinden en met elkaar laten communiceren in Blackbird.
+Think about the apps you use for your business. Your initial list should have at least one e-mail client, project management software, translation memory software or billing software. You can connect and make them communicate with each other in Blackbird.
 
-Laten we aannemen dat je een offerteaanvraag krijgt van een klant in een e-mail. Normaal gesproken zou je de e-mail openen, het ontvangen bestand opslaan, een project aanmaken in je projectmanagementsoftware en informatie uit de e-mail daarheen kopiëren, je vertaalgeheugensoftware openen, een analyse uitvoeren op het bestand, en ten slotte je facturatiesoftware openen en de offerte genereren op basis van de CAT-analyse.
+Let's assume that you get a request for a quote from a client of yours in an e-mail. Normally you would open the e-mail, save the file you receive, create a project in your project management software and copy info from the email there, open your translation memory software, run an analysis on the file, and finally open your billing software and generate the quote based on the CAT analysis.
 
-Aan de andere kant kun je bij Blackbird deze workflow als Bird creëren, deze geautomatiseerd uitvoeren - en gebruiken in Flights; ja, we houden van luchtvaart.
+On the other hand, at Blackbird, you can create this workflow as a Bird, execute it in an automated way - and use it in Flights; yes, we love aviation.
 
-Allereerst heeft je Bird een trigger nodig - in dit voorbeeld de offerteaanvraag per e-mail van je klant. Vanaf nu zal je Bird, wanneer je een e-mail van deze klant ontvangt, automatisch de reeks acties uitvoeren die je in de volgende stap(pen) definieert - zoals het opslaan van het bestand, het aanmaken van het project, het kopiëren van de informatie uit de hoofdtekst van de e-mail, het openen van de vertaalgeheugensoftware, het uitvoeren van analyses en het genereren van de offerte. Zodra je je Bird hebt gepubliceerd, zal deze vliegen telkens wanneer er een nieuwe e-mail van je klant binnenkomt. Zo eenvoudig is het.
+First of all your Bird will need a trigger - the request for quote email from your client in this example. From now on when you get an email from this client, your Bird will automatically execute the series of actions you define in the next step(s) - like saving the file, creating the project, copying the info from the body of the email, opening the translation memory software, running analysis, and generating the quote. Once you published your Bird, it will fly every time a new email from your client comes in. As simple as that.
