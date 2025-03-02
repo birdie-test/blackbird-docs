@@ -1,18 +1,18 @@
 ---
-locale: hu
-title: Első kapcsolatod létrehozása
-description: Az alkalmazások összekötése.
+locale: en
+title: Creating Your First Connection
+description: The wiring of apps.
 sidebar:
-  label: Az első kapcsolatod
+  label: Your First Connection
   order: 2
 ---
 
-A kapcsolatok az alkalmazások összeköttetései. A Bird-ök a kapcsolatokon keresztül engedélyezik az interakciót más alkalmazásokkal vagy szolgáltatásokkal.
+Connections are the wiring of apps. Birds authorize their interaction with other apps or services through connections.
 
-## Beállítás
+## Setting up
 
-Mielőtt elkezdenéd, győződj meg róla, hogy van alkalmazásod. A felső navigációval navigálhatsz az _Apps_ fülre. Ha szeretnél, hozzáadhatsz egy új alkalmazást a jobb felső sarokban található _Add App_ gombra kattintva. Válassz egy alkalmazást az alkalmazások listájából, vagy adj hozzá egy újat.
+Before you begin you need to make sure that you have an app. You can navigate to the _Apps_ tab using the top navigation. If you want you can add a new app by clicking on the _Add App_ button in the rop right corner. Select an app from the list of apps or add a new one.
 
-Ha már egy vagy több alkalmazás szerepel a nézetedben, a kapcsolódás megkezdéséhez kattints az alkalmazásra. A kapcsolatok képernyőn kattints az _Add connection_ gombra. Kövesd az utasításokat, vagy olvasd el az alkalmazásra vonatkozó dokumentációt.
+When you have one or multiple apps added in your view, you can click on the app to start connecting. On the connections screen click _Add connection_. Follow the instructions or read the app specific documentation.
 
 ![connection](~/assets/docs/connection.png)
