@@ -7,7 +7,7 @@ sidebar:
   order: 3
 ---
 
-Ez az útmutató lépésről lépésre megtanítja, hogyan hozhatod létre az első birdedet.
+Ez az útmutató lépésről lépésre megtanítja, hogyan hozd létre az első birdedet.
 
 ## Felszállás - Trigger hozzáadása
 
