@@ -1,24 +1,24 @@
 ---
-locale: hu
-title: Bevezetés
-description: Terjeszd ki szárnyaidat először a Blackbird segítségével.
+locale: en
+title: Introduction
+description: Spread your wings for the first time with Blackbird.
 sidebar:
   order: 1
 ---
 
-A Blackbird egy integrációs platform-as-a-service (iPaaS) megoldás.
-Megoldhatjuk az alkalmazások elszigetelt és szétszórt működéséből fakadó problémákat azáltal, hogy integrációt, automatizálást és zökkenőmentes elemzést biztosítunk a lokalizáció és globalizáció menedzsmentben használt alkalmazások, adatok, tartalmak, résztvevők és eszközök között. A Blackbird azonban nemcsak az alkalmazások, adatok és tartalmak szervezeten belüli összekapcsolására szolgál. Szervezeteket is képes hálózatba kapcsolni - például a tartalmat létrehozó végfelhasználókat több lokalizációs szolgáltatóval.
+Blackbird is an integration platform-as-a-service (iPaaS) solution.
+We can solve the problem of applications operating in isolation and in dispersed modalities by enabling integration, automation, and seamless analytics between the apps, data, content, participants, and devices used for localization and globalization management. However, Blackbird goes beyond connecting applications, data, and content within an organization. It can also connect organizations into networks - e.g. the end clients who create the content with multiple localization vendors.​
 
-Küldetésünk, hogy a globális nyelvi szolgáltatási iparág legjobb iPaaS és automatizációs platform-as-a-service technológiai szállítójává váljunk.
+Our mission is to become the global language services industry’s best iPaaS and automation-platform-as-a-service technology vendor.
 
-A Blackbird-nél az integrációs platformunk a Madarak (Birds) körül forog. Mindig.
+At Blackbird, our integration platform revolves around Birds. All the time.
 
-A kódsorok a repülés négy erejévé alakulnak: felhajtóerő (kiváltók), súly (műveletek), tolóerő (alkalmazások) és ellenállás (kapcsolatok). A négy erő együttes hatása különböző dolgokra készteti a Madaraidat. Rendben, de hogyan - kérdezheted.
+Lines of code are transformed into the four forces of flight: lift (triggers), weight (actions), thrust (apps), and drag (connections). The way the four forces act on your Bird makes it do different things. Fine, but how, you could ask.
 
-Gondolj az üzleted során használt alkalmazásokra. A kezdeti listádon szerepelnie kell legalább egy e-mail kliensnek, projektmenedzsment szoftvernek, fordítási memória szoftvernek vagy számlázó szoftvernek. Ezeket összekötheted és kommunikáltathatod egymással a Blackbird-ben.
+Think about the apps you use for your business. Your initial list should have at least one e-mail client, project management software, translation memory software or billing software. You can connect and make them communicate with each other in Blackbird.
 
-Tegyük fel, hogy árajánlatkérést kapsz egy ügyfeledtől e-mailben. Normális esetben megnyitnád az e-mailt, elmentenéd a kapott fájlt, létrehoznál egy projektet a projektmenedzsment szoftverben és átmásolnád az e-mailből az információkat, megnyitnád a fordítási memória szoftveredet, elemzést futtatnál a fájlon, és végül megnyitnád a számlázó szoftvert, hogy árajánlatot generálj a CAT elemzés alapján.
+Let's assume that you get a request for a quote from a client of yours in an e-mail. Normally you would open the e-mail, save the file you receive, create a project in your project management software and copy info from the email there, open your translation memory software, run an analysis on the file, and finally open your billing software and generate the quote based on the CAT analysis.
 
-Ezzel szemben a Blackbird-nél létrehozhatod ezt a munkafolyamatot Madárként, automatizált módon futtathatod - és használhatod a Repülésekben; igen, imádjuk a repülést.
+On the other hand, at Blackbird, you can create this workflow as a Bird, execute it in an automated way - and use it in Flights; yes, we love aviation.
 
-Először is a Madaradnak szüksége lesz egy kiváltóra - jelen példánkban az ügyfeled árajánlatkérő e-mailjére. Ettől kezdve, amikor e-mailt kapsz ettől az ügyféltől, a Madarad automatikusan végrehajtja a következő lépés(ek)ben meghatározott műveletsorozatot - például a fájl mentését, a projekt létrehozását, az e-mail törzsében található információk másolását, a fordítási memória szoftver megnyitását, az elemzés futtatását és az árajánlat generálását. Miután közzétetted a Madaradat, minden alkalommal repülni fog, amikor új e-mail érkezik az ügyfeledtől. Ilyen egyszerű.
+First of all your Bird will need a trigger - the request for quote email from your client in this example. From now on when you get an email from this client, your Bird will automatically execute the series of actions you define in the next step(s) - like saving the file, creating the project, copying the info from the body of the email, opening the translation memory software, running analysis, and generating the quote. Once you published your Bird, it will fly every time a new email from your client comes in. As simple as that.
