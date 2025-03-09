@@ -1,13 +1,13 @@
 ---
 locale: en
 title: Bird létrehozása
-description: Készüljünk fel a felszállásra. Tanuld meg, hogyan hozd létre az első birdedet.
+description: Készüljünk fel a felszállásra. Tanuld meg, hogyan hozd létre az első birdet.
 sidebar:
   label: Bird létrehozása
   order: 3
 ---
 
-Ez az útmutató lépésről lépésre megtanítja, hogyan hozd létre az első birdedet.
+Ez az útmutató lépésről lépésre megtanítja, hogyan hozhatod létre az első birdet.
 
 ## Felszállás - Trigger hozzáadása
 
@@ -29,12 +29,12 @@ Ez az útmutató lépésről lépésre megtanítja, hogyan hozd létre az első 
 
 ![action](https://d33v4339jhl8k0.cloudfront.net/docs/assets/64089f6dc6ff3e6ff7fa7c9b/images/641822b79a0fe82b2d574915/file-GmI54OflQj.gif)
 
-Az újonnan hozzáadott műveletet láthatod a Birdedben. Igény szerint hozzáadhatsz Döntéseket (Decisions), Ciklusokat (Loops) vagy Operátorokat (Operators) is.
+Az újonnan hozzáadott műveletet láthatod a Birdben. Igény szerint hozzáadhatsz Decisions (Döntések), Loops (Hurkok) vagy Operators (Operátorok) elemeket is.
 
 ## Közzététel
 
 Kattints a _Publish_ gombra a fő panel jobb felső sarkában.
 
-A Bird csatlakozott a csapatodhoz, és készen áll a felszállásra, hogy automatizálja az általad beállított munkafolyamatot. Ne feledd, hogy kattints a _Fly_ gombra, ha Manuális triggert használtál; ellenkező esetben inaktív marad.
+A Bird csatlakozott a csapatodhoz, és készen áll a felszállásra, hogy automatizálja az általad beállított munkafolyamatot. Ne feledd, hogy kattints a _Fly_ gombra, ha Manual triggert használtál; ellenkező esetben inaktív marad.
 
-A _Birds_ képernyőn szerkesztheted, klónozhatod, felfüggesztheted vagy törölheted a Birdedet.
+A _Birds_ képernyőn szerkesztheted, klónozhatod, felfüggesztheted vagy törölheted a Birdet.
